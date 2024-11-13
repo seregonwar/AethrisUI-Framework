@@ -1,0 +1,9 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "aethris-ui"
+version = "0.1.0"
+description = "A modern UI framework for Python"
+requires-python = ">=3.7" 
