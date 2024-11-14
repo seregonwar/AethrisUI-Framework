@@ -72,3 +72,10 @@ Contributions are welcome! To propose improvements, fixes, or new features, open
 
 AethrisUI aims to revolutionize UI management in the web environment, combining power, customization, and simplicity in a single framework.
 
+## GUI sample 
+### proprietary widgets of the framework
+![image](https://github.com/user-attachments/assets/2331c104-f83b-493d-9a2d-122091c25fb1)
+### react gui
+![image](https://github.com/user-attachments/assets/15fb28b2-e85f-4f27-97a2-384788bff008)
+
+
