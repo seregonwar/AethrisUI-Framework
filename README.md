@@ -1,4 +1,4 @@
-# AethrisUI Framework | PyReact
+# AethrisUI Framework | Reacton
 
 ## Overview
 
