@@ -76,6 +76,7 @@ AethrisUI aims to revolutionize UI management in the web environment, combining 
 ### proprietary widgets of the framework
 ![image](https://github.com/user-attachments/assets/2331c104-f83b-493d-9a2d-122091c25fb1)
 ### react gui
-![image](https://github.com/user-attachments/assets/15fb28b2-e85f-4f27-97a2-384788bff008)
+![{95802D78-1602-48B1-8B76-F4666E5A37E7}](https://github.com/user-attachments/assets/444db643-2a62-4cc8-9b3d-b74c1d4f9613)
+
 
 
